@@ -1,0 +1,39 @@
+{
+    "gianna": {
+        "email": "gianna@hightable.test",
+        "password": "thedantonio1",
+        "permissions": [
+            "can-create-user",
+            "can-read-your-own-user",
+            "can-read-your-clinic-user",
+            "can-update-your-clinic-loans",
+            "can-link-user-to-clinic",
+            "can-update-yourself",
+            "can-delete-user",
+            "can-read-your-own-user",
+            "can-read-other-users",
+            "can-read-your-clinic-user",
+            "can-read-other-clinics-users",
+            "can-update-yourself",
+            "can-update-other-users",
+            "can-update-your-clinics-user",
+            "can-update-all-clinics-users",
+            "can-delete-user",
+            "can-delete-other-users",
+            "can-delete-your-clinics-user",
+            "can-delete-other-clinics-users",
+            "can-read-your-balance",
+            "can-read-others-balance",
+            "can-update-balance",
+            "can-transfer-balance",
+            "can-close-balance",
+            "can-check-blacklist",
+            "can-blacklist-user",
+            "can-update-blacklist",
+            "can-remove-blacklist",
+            "can-add-velocity-counter",
+            "can-reset-one-velocity-counter",
+            "can-reset-multiple-velocity-counters"
+        ]
+    }
+}
